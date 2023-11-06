@@ -1,0 +1,17 @@
+ro.secure=0
+ro.adb.secure=0
+ro.debuggable=1
+ro.apex.updatable=true
+init.userspace_reboot.is_supported=true
+ro.mediatek.platform=MT6781
+ro.hardware=mt6781
+ro.crypto.volume.filenames_mode=aes-256-cts
+ro.vendor.mtk_tee_gp_support=1
+ro.hardware.kmsetkey=trustonic
+ro.vendor.mtk_trustonic_tee_support=1
+ro.hardware.paytrigger=trustonic
+ro.vendor.mtk_f2fs_enable=1
+ro.vendor.mtk_emmc_support=1
+ro.vendor.mtk_ufs_support=1
+ro.sys.usb.storage.type=mtp
+ro.sys.usb.mtp.whql.enable=0
